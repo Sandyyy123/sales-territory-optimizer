@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="6">
+            <LineStyle id="8">
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+            <PolyStyle id="7">
+                <color>8054a3f2</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="13">
+            <LineStyle id="15">
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+            <PolyStyle id="14">
+                <color>80f2a354</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="20">
+            <LineStyle id="22">
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+            <PolyStyle id="21">
+                <color>8054f2a3</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="27">
+            <LineStyle id="29">
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+            <PolyStyle id="28">
+                <color>80f254f2</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="34">
+            <LineStyle id="36">
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+            <PolyStyle id="35">
+                <color>8054f2f2</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="41">
+            <LineStyle id="43">
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+            <PolyStyle id="42">
+                <color>80a3f254</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="48">
+            <LineStyle id="50">
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+            <PolyStyle id="49">
+                <color>80a354f2</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="55">
+            <LineStyle id="57">
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+            <PolyStyle id="56">
+                <color>8054f254</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="62">
+            <LineStyle id="64">
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+            <PolyStyle id="63">
+                <color>80f254a3</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="69">
+            <LineStyle id="71">
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+            <PolyStyle id="70">
+                <color>80f2f254</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="76">
+            <LineStyle id="78">
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+            <PolyStyle id="77">
+                <color>80f25454</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="83">
+            <LineStyle id="85">
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+            <PolyStyle id="84">
+                <color>805454f2</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Placemark id="3">
+            <name>Riyadh - Zone 2</name>
+            <description>Customers: 92, Visits/mo: 292, Sales/mo: 501,384</description>
+            <styleUrl>#6</styleUrl>
+            <Polygon id="2">
+                <outerBoundaryIs>
+                    <LinearRing id="4">
+                        <coordinates>46.669895222056965,24.732848181067546,0.0 46.629854870947575,24.70905226166865,0.0 46.662930103270064,24.69370091551701,0.0 46.66536536350728,24.6941097059201,0.0 46.67303818542444,24.69647482240047,0.0 46.678484785120745,24.6992057835876,0.0 46.70024894419273,24.712419898651216,0.0 46.68138477859187,24.732473460055218,0.0 46.669895222056965,24.732848181067546,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="10">
+            <name>Riyadh - Zone 8</name>
+            <description>Customers: 89, Visits/mo: 293, Sales/mo: 518,052</description>
+            <styleUrl>#13</styleUrl>
+            <Polygon id="9">
+                <outerBoundaryIs>
+                    <LinearRing id="11">
+                        <coordinates>46.71526705903516,24.580634595303344,0.0 46.69976899783873,24.566176138126377,0.0 46.70425261322572,24.53642643069086,0.0 46.70621189569915,24.532464629584048,0.0 46.707418183745794,24.5315950458876,0.0 46.73097818811109,24.52516772167772,0.0 46.74221019314579,24.52942689440835,0.0 46.75228141418329,24.548268169688928,0.0 46.7521318461773,24.55893422092717,0.0 46.75171255749603,24.56383488039448,0.0 46.75028237624648,24.573805297852264,0.0 46.7248797113623,24.58855062937119,0.0 46.71526705903516,24.580634595303344,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="17">
+            <name>Riyadh - Zone 4</name>
+            <description>Customers: 107, Visits/mo: 324, Sales/mo: 609,249</description>
+            <styleUrl>#20</styleUrl>
+            <Polygon id="16">
+                <outerBoundaryIs>
+                    <LinearRing id="18">
+                        <coordinates>46.844991891664414,24.732138619532357,0.0 46.84377510902738,24.73871644954748,0.0 46.8384766889706,24.744953347752823,0.0 46.82423572993217,24.76130921055655,0.0 46.81561129466448,24.7609080747024,0.0 46.81061226771914,24.75928314608759,0.0 46.802230111119215,24.74864890693747,0.0 46.79662844140632,24.73713618017754,0.0 46.79603561857458,24.725654516760716,0.0 46.79797707011932,24.71771015316652,0.0 46.810990323717306,24.6975136276974,0.0 46.8358647713096,24.702876022636595,0.0 46.844991891664414,24.732138619532357,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="24">
+            <name>Riyadh - Zone 11</name>
+            <description>Customers: 98, Visits/mo: 340, Sales/mo: 591,029</description>
+            <styleUrl>#27</styleUrl>
+            <Polygon id="23">
+                <outerBoundaryIs>
+                    <LinearRing id="25">
+                        <coordinates>46.6125229717614,24.86422959780012,0.0 46.6190583885881,24.821578762178024,0.0 46.643033486613945,24.81532196291641,0.0 46.65676223870146,24.82450196503308,0.0 46.67485981124377,24.841525325727986,0.0 46.67323535297555,24.863149815872426,0.0 46.660451866003065,24.870869079229177,0.0 46.64592426021612,24.879336648762685,0.0 46.62190108580074,24.874173190810147,0.0 46.6125229717614,24.86422959780012,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="31">
+            <name>Riyadh - Zone 3</name>
+            <description>Customers: 154, Visits/mo: 515, Sales/mo: 941,553</description>
+            <styleUrl>#34</styleUrl>
+            <Polygon id="30">
+                <outerBoundaryIs>
+                    <LinearRing id="32">
+                        <coordinates>46.715548521565566,24.621305130066183,0.0 46.76397317749233,24.633710608064952,0.0 46.75341641064879,24.669574622444475,0.0 46.74844507426568,24.67856742114921,0.0 46.73627956816897,24.68834922564741,0.0 46.72141812687254,24.68094840995712,0.0 46.71788597894227,24.67907002476352,0.0 46.71422324792995,24.67688418888027,0.0 46.70252025995021,24.66721126513192,0.0 46.69112628581308,24.645817859189847,0.0 46.69775276632728,24.62783203486238,0.0 46.69980990753992,24.624328874201428,0.0 46.715548521565566,24.621305130066183,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="38">
+            <name>Riyadh - Zone 6</name>
+            <description>Customers: 119, Visits/mo: 413, Sales/mo: 792,601</description>
+            <styleUrl>#41</styleUrl>
+            <Polygon id="37">
+                <outerBoundaryIs>
+                    <LinearRing id="39">
+                        <coordinates>46.75469770763966,24.73160521687913,0.0 46.776957267493806,24.749409168467142,0.0 46.77387251105221,24.758279074515094,0.0 46.7589125674148,24.78131945724775,0.0 46.75388292899287,24.786745999050694,0.0 46.73671802552533,24.78515176469366,0.0 46.72358072511306,24.776345633378888,0.0 46.72122077192385,24.755979620903737,0.0 46.726291256584055,24.73639819830745,0.0 46.75469770763966,24.73160521687913,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="45">
+            <name>Riyadh - Zone 12</name>
+            <description>Customers: 80, Visits/mo: 299, Sales/mo: 551,549</description>
+            <styleUrl>#48</styleUrl>
+            <Polygon id="44">
+                <outerBoundaryIs>
+                    <LinearRing id="46">
+                        <coordinates>46.52356552025039,24.704425705862583,0.0 46.52940785718149,24.671710414919048,0.0 46.55711231392237,24.67328521719812,0.0 46.57147822680443,24.676631369356866,0.0 46.58603237367846,24.694472334203905,0.0 46.59152138556659,24.713453148088742,0.0 46.58459400969483,24.7167453701506,0.0 46.569218150733896,24.720917840290085,0.0 46.552309717989615,24.720403649149265,0.0 46.53709058159563,24.718743347310244,0.0 46.52356552025039,24.704425705862583,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="52">
+            <name>Riyadh - Zone 5</name>
+            <description>Customers: 74, Visits/mo: 273, Sales/mo: 460,907</description>
+            <styleUrl>#55</styleUrl>
+            <Polygon id="51">
+                <outerBoundaryIs>
+                    <LinearRing id="53">
+                        <coordinates>46.78621638175576,24.8075107840206,0.0 46.76398190853198,24.79645904124524,0.0 46.76530794081309,24.782848746658857,0.0 46.76578411901467,24.778853321589462,0.0 46.77031019824013,24.76992497933273,0.0 46.77761026296259,24.7582179113806,0.0 46.785336212928215,24.74899592647496,0.0 46.817119387562265,24.76538834006752,0.0 46.8232776624145,24.77201387576445,0.0 46.816441503716376,24.78712970315641,0.0 46.81058069248928,24.79505569780369,0.0 46.79140135881717,24.805115518976287,0.0 46.78621638175576,24.8075107840206,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="59">
+            <name>Riyadh - Zone 10</name>
+            <description>Customers: 174, Visits/mo: 519, Sales/mo: 983,784</description>
+            <styleUrl>#62</styleUrl>
+            <Polygon id="58">
+                <outerBoundaryIs>
+                    <LinearRing id="60">
+                        <coordinates>46.64180941367574,24.787527235362504,0.0 46.59858757040369,24.7726494234392,0.0 46.600364148940855,24.7537196201998,0.0 46.60974233343898,24.732918288161848,0.0 46.61409937931131,24.72865400812008,0.0 46.62500284725271,24.72430069696762,0.0 46.64857479235231,24.72976699554222,0.0 46.65336741592679,24.73226247578788,0.0 46.67808571995713,24.759505040820844,0.0 46.66656954244834,24.78120207589112,0.0 46.64180941367574,24.787527235362504,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="66">
+            <name>Riyadh - Zone 7</name>
+            <description>Customers: 94, Visits/mo: 316, Sales/mo: 574,136</description>
+            <styleUrl>#69</styleUrl>
+            <Polygon id="65">
+                <outerBoundaryIs>
+                    <LinearRing id="67">
+                        <coordinates>46.643038200485535,24.593530303418103,0.0 46.64327299133797,24.582895600512767,0.0 46.65776243955105,24.564042309460437,0.0 46.66525629232782,24.56077508872241,0.0 46.68295899816056,24.563990934395985,0.0 46.69965377237813,24.584805859266137,0.0 46.700403805567184,24.58583319871362,0.0 46.6995388890537,24.59156516772446,0.0 46.68723126265797,24.61174060317713,0.0 46.64565403830983,24.617117923038496,0.0 46.643038200485535,24.593530303418103,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="73">
+            <name>Riyadh - Zone 9</name>
+            <description>Customers: 84, Visits/mo: 276, Sales/mo: 437,108</description>
+            <styleUrl>#76</styleUrl>
+            <Polygon id="72">
+                <outerBoundaryIs>
+                    <LinearRing id="74">
+                        <coordinates>46.76272957006856,24.56857230314127,0.0 46.75695336332801,24.55904107335876,0.0 46.75186975385678,24.540133307137783,0.0 46.74997867071513,24.526714079104178,0.0 46.76253243408023,24.52093966848846,0.0 46.776691075263976,24.514890824968138,0.0 46.80011324030893,24.528977456458257,0.0 46.80820144072271,24.54378626052381,0.0 46.801514016644575,24.564230723189997,0.0 46.76272957006856,24.56857230314127,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="80">
+            <name>Riyadh - Zone 1</name>
+            <description>Customers: 135, Visits/mo: 453, Sales/mo: 816,005</description>
+            <styleUrl>#83</styleUrl>
+            <Polygon id="79">
+                <outerBoundaryIs>
+                    <LinearRing id="81">
+                        <coordinates>46.65497622755554,24.68590110893694,0.0 46.67338687485733,24.65529831378556,0.0 46.67663595677264,24.65152871579397,0.0 46.68302318942859,24.64668072191348,0.0 46.68518845062204,24.645438784487656,0.0 46.68821753145368,24.64705443665784,0.0 46.711271562628966,24.684951823118432,0.0 46.71688563463059,24.70267275073432,0.0 46.70926753490658,24.70548674445364,0.0 46.68975702352205,24.70250178663266,0.0 46.67747392324427,24.697574596451428,0.0 46.6613620410823,24.690629563928347,0.0 46.65497622755554,24.68590110893694,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>
